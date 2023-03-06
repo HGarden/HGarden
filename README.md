@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<!--
+- I’m currently studying Front-End development at Noroff - School of technology and digital media
+- My current interests are music, music production, video games and webdevelopment!
+- You can reach me on: https://www.linkedin.com/in/marius-hagen-b997a5234/
+- Fun fact: I like to collect, specifically old videogames and consoles and also music stuff like vinyls and music gear. 
+
+
+<!-
 **HGarden/HGarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
